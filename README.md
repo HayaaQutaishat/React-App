@@ -11,7 +11,6 @@ In this demo project I used different techniques for setting styles dynamically 
 
 In this app I showed how to set up styles in a conditional or dynamic way and how to switch certain styles based on some conditions. 
 
-I worked with styled components approach, which is a third-party library that allows us to set up pre-styled components with their own scoped styles. I also worked with CSS modules approach.
-
+I worked with styled components approach, which is a third-party library that allows us to set up pre-styled components with their own scoped styles. I also worked with CSS modules approach which is a CSS file in which all class names and animation names are scoped locally by default. CSS Modules let you write styles in CSS files but consume them as JavaScript objects for additional processing and safety.
 
 
